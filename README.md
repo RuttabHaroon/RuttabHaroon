@@ -17,7 +17,7 @@ I am a software developer with expertise in mobile app development.
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
 
-# Status Quota
+# Status Quo
 <img src="https://github-readme-stats.vercel.app/api?username=RuttabHaroon">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuttabHaroon">
 
