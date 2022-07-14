@@ -1,6 +1,6 @@
 # Hello World 👋 I'm Ruttab
 
-I am a software developer with expertise in mobile app development.
+I am a software developer with expertise in mobile app development 📱
 
 
 # Lets connect on
