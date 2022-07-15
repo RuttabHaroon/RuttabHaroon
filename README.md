@@ -6,11 +6,12 @@ I am a software developer with expertise in mobile app development 📱
 # Lets connect on
   <a href="https://www.linkedin.com/in/ruttab-haroon-00a531b7/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
+  </a>
 
 
-
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="https://www.kaggle.com/ruttabh/">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"/>
+</a>
 
 
 # Tech Stack
